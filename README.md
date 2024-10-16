@@ -99,6 +99,18 @@ Q.1: Is the sky blue? (True/False):
 - Improve input validation and error handling.
 - Enhance the user interface for a more interactive experience.
 
+## License
+
+- This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Contributions
+- Feel free to submit issues or pull requests for any improvements or bug fixes.
+
+## Author
+
+- Lavneet Hora
+- Sophomore @ Texas Tech University
+- Computer Science
 
 
 
